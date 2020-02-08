@@ -116,6 +116,6 @@ p.text {
   margin-top: 25px;
 }
 
-p.text{
+#count, #total{
   color: aqua;
 }
